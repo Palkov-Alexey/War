@@ -101,7 +101,6 @@ class Solution
                         {
                             SecondPlayer.Enqueue(SecondPlayerCard.Dequeue());
                         }
-                        
                         step++;
                         break;
                     }
